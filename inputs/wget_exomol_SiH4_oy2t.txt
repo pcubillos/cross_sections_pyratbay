@@ -1,0 +1,3 @@
+https://zenodo.org/records/14266247/files/SiH4_exomol_oy2t_2.0-50.0um_100-2000K_threshold_0.01_lbl.dat
+https://www.exomol.com/db/SiH4/28Si-1H4/OY2T/28Si-1H4__OY2T.states.bz2
+

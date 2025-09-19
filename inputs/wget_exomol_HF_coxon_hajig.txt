@@ -1,0 +1,5 @@
+https://www.exomol.com/db/HF/1H-19F/Coxon-Hajig/1H-19F__Coxon-Hajig.states.bz2
+https://www.exomol.com/db/HF/1H-19F/Coxon-Hajig/1H-19F__Coxon-Hajig.trans.bz2
+https://www.exomol.com/db/HF/1H-19F/Coxon-Hajig/1H-19F__Coxon-Hajig__E2.trans.bz2
+https://www.exomol.com/db/HF/1H-19F/Coxon-Hajig/1H-19F__Coxon-Hajig.pf
+

@@ -1,0 +1,7 @@
+https://www.exomol.com/db/PN/31P-14N/PaiN/31P-14N__PaiN.states.bz2
+https://www.exomol.com/db/PN/31P-14N/PaiN/31P-14N__PaiN.trans.bz2
+https://www.exomol.com/db/PN/31P-14N/PaiN/31P-14N__PaiN.pf
+
+https://www.exomol.com/db/PN/31P-15N/PaiN/31P-15N__PaiN.states.bz2
+https://www.exomol.com/db/PN/31P-15N/PaiN/31P-15N__PaiN.trans.bz2
+https://www.exomol.com/db/PN/31P-15N/PaiN/31P-15N__PaiN.pf

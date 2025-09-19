@@ -1,0 +1,15 @@
+https://www.exomol.com/db/KCl/39K-35Cl/Barton/39K-35Cl__Barton.states.bz2
+https://www.exomol.com/db/KCl/39K-35Cl/Barton/39K-35Cl__Barton.trans.bz2
+https://www.exomol.com/db/KCl/39K-35Cl/Barton/39K-35Cl__Barton.pf
+
+https://www.exomol.com/db/KCl/39K-37Cl/Barton/39K-37Cl__Barton.states.bz2
+https://www.exomol.com/db/KCl/39K-37Cl/Barton/39K-37Cl__Barton.trans.bz2
+https://www.exomol.com/db/KCl/39K-37Cl/Barton/39K-37Cl__Barton.pf
+
+https://www.exomol.com/db/KCl/41K-35Cl/Barton/41K-35Cl__Barton.states.bz2
+https://www.exomol.com/db/KCl/41K-35Cl/Barton/41K-35Cl__Barton.trans.bz2
+https://www.exomol.com/db/KCl/41K-35Cl/Barton/41K-35Cl__Barton.pf
+
+https://www.exomol.com/db/KCl/41K-37Cl/Barton/41K-37Cl__Barton.states.bz2
+https://www.exomol.com/db/KCl/41K-37Cl/Barton/41K-37Cl__Barton.trans.bz2
+https://www.exomol.com/db/KCl/41K-37Cl/Barton/41K-37Cl__Barton.pf

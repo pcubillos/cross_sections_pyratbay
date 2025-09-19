@@ -1,0 +1,4 @@
+https://zenodo.org/records/14266247/files/CH4_exomol_mm_0.83-50.0um_100-3000K_threshold_0.03_lbl.dat
+https://www.exomol.com/db/CH4/12C-1H4/MM/12C-1H4__MM.states.bz2
+https://www.exomol.com/db/CH4/12C-1H4/MM/12C-1H4__MM.pf
+

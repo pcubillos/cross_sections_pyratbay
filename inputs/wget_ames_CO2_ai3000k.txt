@@ -1,0 +1,2 @@
+https://zenodo.org/records/14266247/files/CO2_ames_ai3000k_0.5-50.0um_100-3500K_threshold_0.01_lbl.dat
+https://zenodo.org/records/16965391/files/PF_ames_CO2.dat

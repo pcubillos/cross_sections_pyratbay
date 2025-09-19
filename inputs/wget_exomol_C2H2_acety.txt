@@ -1,0 +1,2 @@
+https://zenodo.org/records/14266247/files/C2H2_exomol_acety_1.0-500.0um_100-3500K_threshold_0.03_lbl.dat
+http://www.exomol.com/db/C2H2/12C2-1H2/aCeTY/12C2-1H2__aCeTY.pf

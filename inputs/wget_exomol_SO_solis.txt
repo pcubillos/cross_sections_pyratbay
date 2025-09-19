@@ -1,0 +1,3 @@
+https://www.exomol.com/db/SO/32S-16O/SOLIS/32S-16O__SOLIS.states.bz2
+https://www.exomol.com/db/SO/32S-16O/SOLIS/32S-16O__SOLIS.trans.bz2
+https://www.exomol.com/db/SO/32S-16O/SOLIS/32S-16O__SOLIS.pf

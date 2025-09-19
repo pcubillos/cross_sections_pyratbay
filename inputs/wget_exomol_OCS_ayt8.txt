@@ -1,0 +1,3 @@
+https://zenodo.org/records/14266247/files/OCS_exomol_oyt8_1.0-50.0um_100-3000K_threshold_0.01_lbl.dat
+https://www.exomol.com/db/OCS/16O-12C-32S/OYT8/16O-12C-32S__OYT8.states.bz2
+https://www.exomol.com/db/OCS/16O-12C-32S/OYT8/16O-12C-32S__OYT8.pf

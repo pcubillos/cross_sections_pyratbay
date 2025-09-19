@@ -1,0 +1,17 @@
+https://www.exomol.com/db/SiH/28Si-1H/SiGHTLY/28Si-1H__SiGHTLY.states.bz2
+https://www.exomol.com/db/SiH/28Si-1H/SiGHTLY/28Si-1H__SiGHTLY.trans.bz2
+https://www.exomol.com/db/SiH/28Si-1H/SiGHTLY/28Si-1H__SiGHTLY.pf
+                                                     
+https://www.exomol.com/db/SiH/29Si-1H/SiGHTLY/29Si-1H__SiGHTLY.states.bz2
+https://www.exomol.com/db/SiH/29Si-1H/SiGHTLY/29Si-1H__SiGHTLY.trans.bz2
+https://www.exomol.com/db/SiH/29Si-1H/SiGHTLY/29Si-1H__SiGHTLY.pf
+                                                     
+https://www.exomol.com/db/SiH/30Si-1H/SiGHTLY/30Si-1H__SiGHTLY.states.bz2
+https://www.exomol.com/db/SiH/30Si-1H/SiGHTLY/30Si-1H__SiGHTLY.trans.bz2
+https://www.exomol.com/db/SiH/30Si-1H/SiGHTLY/30Si-1H__SiGHTLY.pf
+                                                     
+https://www.exomol.com/db/SiH/28Si-2H/SiGHTLY/28Si-2H__SiGHTLY.states.bz2
+https://www.exomol.com/db/SiH/28Si-2H/SiGHTLY/28Si-2H__SiGHTLY.trans.bz2
+https://www.exomol.com/db/SiH/28Si-2H/SiGHTLY/28Si-2H__SiGHTLY.pf
+
+

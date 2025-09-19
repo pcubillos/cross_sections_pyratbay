@@ -1,3 +1,8 @@
+*.tli
+*.npz
+*.log
+PF_*.dat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -1,0 +1,7 @@
+https://www.exomol.com/db/NaCl/23Na-35Cl/Barton/23Na-35Cl__Barton.states.bz2
+https://www.exomol.com/db/NaCl/23Na-35Cl/Barton/23Na-35Cl__Barton.trans.bz2
+https://www.exomol.com/db/NaCl/23Na-35Cl/Barton/23Na-35Cl__Barton.pf
+
+https://www.exomol.com/db/NaCl/23Na-37Cl/Barton/23Na-37Cl__Barton.states.bz2
+https://www.exomol.com/db/NaCl/23Na-37Cl/Barton/23Na-37Cl__Barton.trans.bz2
+https://www.exomol.com/db/NaCl/23Na-37Cl/Barton/23Na-37Cl__Barton.pf

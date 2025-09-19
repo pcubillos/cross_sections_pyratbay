@@ -64,18 +64,18 @@ pbay -pf exomol inputs/1H-19F__Coxon-Hajig.pf
 
 # KCl
 pbay -pf states 5.0 6000.0 5.0 \
-    inputs/39K-35Cl__Barton.states \
-    inputs/39K-37Cl__Barton.states \
-    inputs/41K-35Cl__Barton.states \
-    inputs/41K-37Cl__Barton.states
+    inputs/39K-35Cl__Barton.states.bz2 \
+    inputs/39K-37Cl__Barton.states.bz2 \
+    inputs/41K-35Cl__Barton.states.bz2 \
+    inputs/41K-37Cl__Barton.states.bz2
 
 # KOH
 pbay -pf states 5.0 6000.0 5.0 inputs/39K-16O-1H__OYT4.states.bz2
 
 # NaCl
 pbay -pf states 5.0 6000.0 5.0 \
-    inputs23Na-35Cl__Barton.states \
-    inputs23Na-37Cl__Barton.states
+    inputs23Na-35Cl__Barton.states.bz2 \
+    inputs23Na-37Cl__Barton.states.bz2
 
 # NaH
 pbay -pf exomol \
@@ -95,7 +95,7 @@ pbay -pf tips OH
 pbay -pf states 5.0 6000.0 5.0 inputs/31P-1H3__SAlTY.states.bz2
 
 # PH
-pbay -pf states 5.0 6000.0 5.0 inputs/31P-1H__LaTY.states
+pbay -pf states 5.0 6000.0 5.0 inputs/31P-1H__LaTY.states.bz2
 
 # PN
 pbay -pf exomol \

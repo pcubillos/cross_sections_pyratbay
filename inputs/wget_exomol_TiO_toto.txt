@@ -1,0 +1,7 @@
+https://zenodo.org/records/14266247/files/TiO_exomol_toto_0.33-500um_100-3500K_threshold_0.01_lbl.dat
+https://www.exomol.com/db/TiO/46Ti-16O/Toto/46Ti-16O__Toto.pf
+https://www.exomol.com/db/TiO/47Ti-16O/Toto/47Ti-16O__Toto.pf
+https://www.exomol.com/db/TiO/48Ti-16O/Toto/48Ti-16O__Toto.pf
+https://www.exomol.com/db/TiO/49Ti-16O/Toto/49Ti-16O__Toto.pf
+https://www.exomol.com/db/TiO/50Ti-16O/Toto/50Ti-16O__Toto.pf
+

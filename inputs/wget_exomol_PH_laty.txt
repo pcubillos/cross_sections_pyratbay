@@ -1,0 +1,3 @@
+https://www.exomol.com/db/PH/31P-1H/LaTY/31P-1H__LaTY.states.bz2
+https://www.exomol.com/db/PH/31P-1H/LaTY/31P-1H__LaTY.trans.bz2
+https://www.exomol.com/db/PH/31P-1H/LaTY/31P-1H__LaTY.pf

@@ -1,0 +1,2 @@
+https://zenodo.org/records/14266247/files/VO_exomol_hyvo_0.22-50um_100-3500K_threshold_0.01_lbl.dat
+https://www.exomol.com/db/VO/51V-16O/HyVO/51V-16O__HyVO.pf

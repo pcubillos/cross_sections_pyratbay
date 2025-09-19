@@ -1,0 +1,15 @@
+https://www.exomol.com/db/HCl/1H-35Cl/HITRAN-HCl/1H-35Cl__HITRAN-HCl.states.bz2
+https://www.exomol.com/db/HCl/1H-35Cl/HITRAN-HCl/1H-35Cl__HITRAN-HCl.trans.bz2
+https://www.exomol.com/db/HCl/1H-35Cl/HITRAN-HCl/1H-35Cl__HITRAN-HCl.pf
+
+https://www.exomol.com/db/HCl/1H-37Cl/HITRAN-HCl/1H-37Cl__HITRAN-HCl.states.bz2
+https://www.exomol.com/db/HCl/1H-37Cl/HITRAN-HCl/1H-37Cl__HITRAN-HCl.trans.bz2
+https://www.exomol.com/db/HCl/1H-37Cl/HITRAN-HCl/1H-37Cl__HITRAN-HCl.pf
+
+https://www.exomol.com/db/HCl/2H-35Cl/HITRAN-HCl/2H-35Cl__HITRAN-HCl.states.bz2
+https://www.exomol.com/db/HCl/2H-35Cl/HITRAN-HCl/2H-35Cl__HITRAN-HCl.trans.bz2
+https://www.exomol.com/db/HCl/2H-35Cl/HITRAN-HCl/2H-35Cl__HITRAN-HCl.pf
+
+https://www.exomol.com/db/HCl/2H-37Cl/HITRAN-HCl/2H-37Cl__HITRAN-HCl.states.bz2
+https://www.exomol.com/db/HCl/2H-37Cl/HITRAN-HCl/2H-37Cl__HITRAN-HCl.trans.bz2
+https://www.exomol.com/db/HCl/2H-37Cl/HITRAN-HCl/2H-37Cl__HITRAN-HCl.pf

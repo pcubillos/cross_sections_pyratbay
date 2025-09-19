@@ -1,0 +1,1 @@
+https://zenodo.org/records/14266247/files/SO2_exomol_exoames_1.25-100.0um_100-3500K_threshold_0.03_lbl.dat

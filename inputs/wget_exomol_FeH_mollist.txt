@@ -1,0 +1,3 @@
+https://www.exomol.com/db/FeH/56Fe-1H/MoLLIST/56Fe-1H__MoLLIST.states.bz2
+https://www.exomol.com/db/FeH/56Fe-1H/MoLLIST/56Fe-1H__MoLLIST.trans.bz2
+https://www.exomol.com/db/FeH/56Fe-1H/MoLLIST/56Fe-1H__MoLLIST.pf

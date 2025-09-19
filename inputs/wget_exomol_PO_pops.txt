@@ -1,0 +1,3 @@
+https://www.exomol.com/db/PO/31P-16O/POPS/31P-16O__POPS.states.bz2
+https://www.exomol.com/db/PO/31P-16O/POPS/31P-16O__POPS.trans.bz2
+https://www.exomol.com/db/PO/31P-16O/POPS/31P-16O__POPS.pf

@@ -1,0 +1,2 @@
+https://zenodo.org/records/14266247/files/C2H4_exomol_mayty_1.4-500um_100-3500K_threshold_0.03_lbl.dat
+http://www.exomol.com/db/C2H4/12C2-1H4/MaYTY/12C2-1H4__MaYTY.states.bz2

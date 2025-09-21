@@ -1,2 +1,3 @@
+https://zenodo.org/records/17167393/files/PH3_exomol_salty_1.0-50.0um_100-3000K_threshold_0.01_lbl.dat
 https://www.exomol.com/db/PH3/31P-1H3/SAlTY/31P-1H3__SAlTY.states.bz2
 

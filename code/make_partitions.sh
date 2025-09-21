@@ -1,15 +1,15 @@
-# I want at least 5000K
-# Use exomol or hitran/tips files whenever possible
-# If temp is not covered, compute from states files
+# Copyright (c) 2025 Patricio Cubillos
+# This is open-source software under the MIT license (see LICENSE).
+
+# We want a temperature coverage up to at least 6000K
+# Use exomol or hitran .pf or tips files whenever possible
+# Otherwise, compute PF from exomol .states files
 
 # AlF
 pbay -pf exomol inputs/27Al-19F__MoLLIST.pf
 
 # C2H2
 pbay -pf exomol inputs/12C2-1H2__aCeTY.pf
-
-# C2H4
-pbay -pf states 5.0 6000.0 5.0 inputs/12C2-1H4__MaYTY.states.bz2
 
 # CaH
 pbay -pf exomol inputs/40Ca-1H__XAB.pf
@@ -18,8 +18,7 @@ pbay -pf exomol inputs/40Ca-1H__XAB.pf
 pbay -pf states 5.0 6000.0 5.0 inputs/12C-1H4__MM.states.bz2
 
 # CO2
-# get from Zenodo repository
-# wget https://zenodo.org/records/16965391/files/PF_ames_CO2.dat
+# PF_ames_CO2.dat file is included in this repository
 
 # CO
 pbay -pf tips CO
